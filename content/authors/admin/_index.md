@@ -3,27 +3,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 博士 (農学)  
+    institution: 東京大学大学院 農学生命科学研究科 農学国際専攻 遺体科学研究室
+    year: 2022
+  - course: 修士 (環境科学)
+    institution: 北海道大学大学院 環境科学院 生物圏科学専攻 森林圏環境科学コース
+    year: 2019 
+  - course: 学士（理学）
+    institution: 北海道大学 理学部 地球惑星科学科 地球惑星システム科学講座
+    year: 2017
 email: ""
-first_name: Alice
+first_name: Taro
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- 進化発生学 | Evo-Devo
+- 生物音響学 | Bioacoustics
+- 発生遺伝学 | Developmental Genetics
+last_name: Nojiri
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Juntendo University
+  
+role: JSPS postdoctoral fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +33,17 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/bio_sonar
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://scholar.google.co.jp/citations?user=9-qtBC8AAAAJ&hl=ja&oi=ao
 status:
-  icon: ☕️
+  icon: 🦇
 superuser: true
-title: Alice Wu 吳恩達
+title: Taro Nojiri
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+脊椎動物の呼吸器と聴覚器の形態進化を研究しています. 
+
+
 {style="text-align: justify;"}
