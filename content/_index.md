@@ -6,7 +6,8 @@ sections:
   content:
     text: null
     username: admin
-  id: about
+  id: Home
+  
 - block: experience
   content:
     date_format: Jan 2006
@@ -31,8 +32,8 @@ sections:
     title: Experience
   design:
     columns: "2"
-
-
+  id: Experience
+  
 - block: collection
   content:
     filters:
@@ -47,6 +48,7 @@ sections:
   design:
     columns: "4"
     view: citation
+  id: Publications
 
 - block: contact
   content:
