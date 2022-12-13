@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: "ocean"
-  theme_night: "ocean"
-  font: minimal
-  font_size: L
+  theme_day: ocean
+  theme_night: ocean
+  font: Cyberpunk 
+  font_size: xl
 
 # SEO
 
