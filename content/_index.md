@@ -1,15 +1,15 @@
 ---
 date: "2022-10-24"
 sections:
- 
+
 - block: about.avatar
+  
   content:
     text: null
     username: admin
   design:
-    columns: "2"
+    columns: "4"
   id: Home
-  
   
 - block: experience
   content:
