@@ -6,7 +6,10 @@ sections:
   content:
     text: null
     username: admin
+  design:
+    columns: "2"
   id: Home
+  
   
 - block: experience
   content:
