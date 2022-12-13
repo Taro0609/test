@@ -1,14 +1,5 @@
 ---
-abstract:
-authors:
-- admin
-- Ingmar Werneburg
-- Vuong Tan Tu
-- Dai Fukui
-- Masaki Takechi
-- Sachiko Iseki
-- Toshiko Furutera
-- Daisuke Koyabu
+abstract: "<u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D. <br><b><i>Proceedings of the Royal Society B：Biological Sciences.</i></b> <i>in press</i>"
 date: "in press"
 doi: ""
 featured: false
@@ -16,13 +7,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '<i>Proceedings of the Royal Society B: Biological Sciences</i>'
+publication: ''
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2023-01-01"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: <br><u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D.<br>      <b><i>Proceedings of the Royal Society B：Biological Sciences.</b></i> (<i>in press</i>)
 tags:
 - Source Themes
 title: Timing of organogenesis underscores evolution of neonatal life histories and powered flight in bats
