@@ -21,33 +21,41 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  
 experience:
-  - title: PhD Student
-    company: UNSW
+  
+  - title: 日本学術振興会特別研究員PD | 協力研究員
+    company: 順天堂大学大学院医学研究科解剖学・生体構造科学講座
     company_url: ''
-    company_logo:
-    location: Sydney
-    date_start: '2018-02-01'
+    location: 東京
+    date_start: '2022-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        脊椎動物の耳鼻咽喉形態の進化発生学的研究
         
-        * Research on effects of interruption in decision-making
-        * Tutor for "Research Methods"
-        
-  - title: Co-Founders UNSW CodeRs
-    company: UNSW
-    company_url: 'https://unsw-coders.netlify.app/'
-    company_logo: codeRs
-    location: Sydney
-    date_start: '2021-03-01'
-    date_end: ''
+  - title: 日本学術振興会特別研究員DC1 | 博士課程
+    company: 東京大学農学生命科学研究科 | 東京大学総合研究博物館 遺体科学研究室
+    company_url: ''
+    location: 東京
+    date_start: '2019-04-01'
+    date_end: '2022-03-31'
     description: |2-
-        Responsibilities include:
+        コウモリ類の飛行・反響定位器官の進化発生学的研究
         
-        * Helped organize and estabish organization
-        * Built codeRs website
-
-design:
-  columns: '2'
+  - title: 修士課程
+    company: 北海道大学大学院環境科学院生物圏科学専攻 動物生態学研究室
+    company_url: ''
+    location: 北海道
+    date_start: '2017-04-01'
+    date_end: '2019-03-31'
+    description: |2-
+        コウモリ類の四肢形成と飛行・繁殖生態の進化   
+        
+  - title: 学士課程
+    company: 北海道大学理学部地球惑星科学科 地球惑星システム科学講座
+    company_url: ''
+    location: 北海道
+    date_start: '2013-04-01'
+    date_end: '2017-03-31'
+    description: |2-
 ---

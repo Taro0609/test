@@ -3,13 +3,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
-active: true
-
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 130
 
 title: Contact
 subtitle:
@@ -22,10 +20,10 @@ content:
   form:
     provider: formspree
     formspree:
-      id: xyybrgzy
+      id: xqkwjlqw
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
   
 design:
   columns: '2'

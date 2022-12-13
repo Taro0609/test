@@ -11,14 +11,14 @@ education:
   - course: 学士（理学）
     institution: 北海道大学 理学部 地球惑星科学科 
     year: 2017
+
 email: ""
-first_name: Taro
 highlight_name: true
 interests:
 - 進化発生学 | Evo-Devo
 - 生物音響学 | Bioacoustics
 - 発生遺伝学 | Developmental Genetics
-last_name: Nojiri
+
 organizations:
 - name: Juntendo University
 role: JSPS postdoctoral fellow
@@ -37,10 +37,9 @@ social:
   link: https://scholar.google.co.jp/citations?user=9-qtBC8AAAAJ&hl=ja&oi=ao
 status:
   icon: 🦇
-superuser: false
+superuser: true
 title: Taro Nojiri
 ---
 
 脊椎動物の呼吸器と聴覚器の形態進化を研究しています.
 
-{style="text-align: justify;"}
