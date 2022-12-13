@@ -19,30 +19,35 @@ feature:
 
 
 
-- description: 'I have been using R since the start of my graduate studies in 2015. I essentially use R for all my data analysis, modeling, and visualization. This year, I designed my first <a href="https://j-sloane-92.shinyapps.io/babynames/" target="_blank" rel="noopener noreferrer" style="color: #F76F8E">Shiny App</a> (an interactive website to explore a dataset on baby names in Australia) in R.'
+- description: '器官形態 三次元形態構築ソフトウェア'
+  icon: bone
+  icon_pack: fas
+  name: Amira
+  
+- description: '骨, 軟骨, 筋肉, 神経の可視化 <br> '
+  icon: vial
+  icon_pack: fas
+  name: Immunohistochemistry
+
+- description: '形態情報の統計解析'
   icon: r-project
   icon_pack: fab
-  name: R
-  
-- description: 'I have recently started using Overleaf and learning LaTeX in 2018 for writing papers and other documents, such as my <a href="http://127.0.0.1:4321/files/cv.pdf" target="_blank" rel="noopener noreferrer" style="color: #F76F8E">CV</a>. I also believe it is a great tool for collaborations.'
-  icon: "overleaf"
-  icon_pack: ai
-  name: Overleaf
-  
-- description: 'I began learning JavaScript this past year, specifically using <a href = "https://www.jspsych.org/" target="_blank" rel="noopener noreferrer" style="color: #F76F8E">jspsych</a> to run some of my computer-based experiments online.'
-  icon: js
-  icon_pack: fab
-  name: JavaScript
+  name: Statistics
 
-- description: 'In addition to JavaScript, I often use Python to code my psychology experiments. I have a couple of years of experience using Python.'
-  icon: python
-  icon_pack: fab
-  name: Python
+- description: '脊椎動物の肉眼解剖.'
+  icon: skull
+  icon_pack: fas
+  name: Gross Anatomy
+
+- description: '組織学的観察'
+  icon: microscope
+  icon_pack: fas
+  name: Histology
   
-- description: 'I am an avid supporter of open science and greatly value their mission to "increase the openness, integrity, and reproducibility of scientific research."'
-  icon: osf
-  icon_pack: ai
-  name: Open Science Framework
+- description: '進化動態の解析, 形態情報の祖先型復元'
+  icon: dna
+  icon_pack: fas
+  name: Mesquite
 
 
 # Uncomment to use emoji icons.
