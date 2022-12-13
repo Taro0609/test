@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -25,8 +25,9 @@ date_format: Jan 2006
 experience:
   
   - title: 日本学術振興会特別研究員PD | 協力研究員
-    company: 順天堂大学大学院医学研究科解剖学・生体構造科学講座
+    company: "順天堂大学大学院医学研究科解剖学・生体構造科学講座"
     company_url: ''
+    company_logo: "順天堂大学"
     location: 東京
     date_start: '2022-04-01'
     date_end: ''
@@ -36,6 +37,7 @@ experience:
   - title: 日本学術振興会特別研究員DC1 | 博士課程
     company: 東京大学農学生命科学研究科 | 東京大学総合研究博物館 遺体科学研究室
     company_url: ''
+    company_logo: "東京大学大学院農学生命科学研究科"
     location: 東京
     date_start: '2019-04-01'
     date_end: '2022-03-31'
@@ -45,6 +47,7 @@ experience:
   - title: 修士課程
     company: 北海道大学大学院環境科学院生物圏科学専攻 動物生態学研究室
     company_url: ''
+    company_logo: "北海道大学大学院環境科学院"
     location: 北海道
     date_start: '2017-04-01'
     date_end: '2019-03-31'
@@ -54,6 +57,7 @@ experience:
   - title: 学士課程
     company: 北海道大学理学部地球惑星科学科 地球惑星システム科学講座
     company_url: ''
+    company_logo: "北海道大学大学院環境科学院"
     location: 北海道
     date_start: '2013-04-01'
     date_end: '2017-03-31'
