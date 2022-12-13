@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Domestic Conference'
+title: 'Presentation'
 subtitle:
 
 content:
@@ -44,6 +44,9 @@ design:
   #   4 = Citation (publication only) 
   view: 2
 ---
+
+〇国内学会
+<br>
 -2022-
 
 <u><b>野尻 太郎</b></u>, 福井 大, 遠藤 秀紀, 小薮 大輔. 胎子期発生から紐解くコウモリ類のエコーロケーションの進化的起源. 日本解剖学会 (オンライン) [企画シンポジウム: 異分野融合による形態進化学の新たな展開], 2022. 3/28
@@ -82,3 +85,47 @@ Nicolas Brualla, Laura Wilson, 野尻 太郎, Michael Doube, Vuong Tan Tu, 福�
 <u><b>野尻 太郎</b></u>, Ingmar Werneburg, 福井 大, 齊藤 隆, 小薮 大輔. 哺乳類におけるコウモリ目の胎子期器官形成の特異性. [口頭発表], 日本進化学会 (東京大学 駒場キャンパス, 東京都), 2018.8.22-24
 
 <u><b>野尻 太郎</b></u>, Ingmar Werneburg, Ngyuen Truong Son, Vuong Tan Tu, 小薮 大輔. キクガシラコウモリの蝸牛発生の特異性と超高周波音利用. [ポスター発表], 日本生態学会 (札幌コンベンションセンター, 北海道), 2018.3.14-18
+
+<hr>
+<B>〇国際学会</B>
+
+<br>
+-2022-
+
+<U><B>Nojiri, T.</B></U>, Lopez-Aguirre, C., Wilson, L., Tu, V.T., Fukui, D., Koyabu, D. Evolution and development of echolocation apparatus in bats. [oral session] The 3rd Young Researcher Meeting Morphology 2022 (Georg-August Universität Göttingen, Germany), 2022.2.24-26
+
+ 
+-2019-
+
+Sohn, J., Koyabu, D., <U><B>Nojiri, T.</B></U>, Noh, H., Kimura, J. A 3D anatomical study using µCT images for the male genital organs of greater horseshoe bat. [poster session] The 18th International Bat Research Conference (Phuket, Thailand), 2019.7.28-8.1
+
+Koyabu, D. & <U><B>Nojiri, T.</B></U> Evolution of developmental sequence in bats and its peculiarity among mammals. [oral session] The 18th International Bat Research Conference (Phuket, Thailand), 2019.7.28-8.1
+
+Ito, K., <U><B>Nojiri, T.</B></U>, Koyabu, D. On the development of the nasal capsule and turbinate homology in Laurasiatherians, with special reference to bats. [oral session] The 12th International Congress of Vertebrate Morphology (Prague, Czech), 2019.7.21-25.
+
+Koyabu, D. & <U><B>Nojiri, T.</B></U> Prenatal development of echolocation-related traits in bats and the origin of laryngeal echolocation: single origin or convergence? [oral session] The 12th International Congress of Vertebrate Morphology (Prague, Czech), 2019.7.21-25.
+
+<U><B>Nojiri, T.</B></U> & Koyabu, D. Does prenatal development support a single origin of laryngeal echolocation in bats? [poster session] The 12th International Congress of Vertebrate Morphology (Prague, Czech), 2019.7.21-25.
+
+Sohn, J., <U><B>Nojiri, T.</B></U>, Koyabu, D., Kimura, J. A 3D anatomical study using μCT images for the male genital organs of Greater horseshoe bat Rhinolophus ferrumequinum. [poster session] The 10th Joint Symposium of Veterinary Research in East Asia (Gifu Pref., Japan), 2019.2.18-19.
+
+-2018-
+
+<U><B>Nojiri, T.</B></U>, Werneburg, I., Son, N. T., Tu, V. T., Koyabu, D. The specific development of the cochlea and use of the ultrasonic sound in Thomas's horseshoe bat. [poster session] The 8th EAFES International Congress (Aichi Pref., Japan), 2018.4.21-23.
+
+<hr>
+<b>〇シンポジウム</b>
+<br>
+-2019-
+
+<u><b>野尻 太郎</b></u>. 超音波器官形成から捉える翼手類のエコーロケーションの進化的起源. [口頭発表] 第7回 生態進化発生コロキウム (東京大学 駒場キャンパス, 東京都), 2019.12.27
+
+-2018-
+
+<u><b>野尻 太郎</b></u>. 翼手類の飛行進化に伴う四肢形成の長期化. [口頭発表] 第６回 生態進化発生コロキウム (東京大学 駒場キャンパス, 東京都), 2018.12.28
+
+<u><b>野尻 太郎</b></u>, Ingmar Werneburg, 福井 大, 齊藤 隆, 小薮 大輔. 哺乳類におけるコウモリ類の胎子期器官形成の特異性. [口頭発表] EvoDevo青年の会 (東京大学 駒場キャンパス, 東京都), 2018.8.21
+
+-2017-
+
+<u><b>野尻 太郎</b></u>. 翼手目のエコ―ロケーションの進化的起源. [口頭発表] 第５回 生態進化発生コロキウム (東京大学 駒場キャンパス, 東京都), 2017.12.28

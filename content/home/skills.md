@@ -24,30 +24,38 @@ feature:
   icon_pack: fas
   name: Amira
   
-- description: '骨, 軟骨, 筋肉, 神経の可視化 <br> '
-  icon: vial
-  icon_pack: fas
-  name: Immunohistochemistry
 
-- description: '形態情報の統計解析'
-  icon: r-project
-  icon_pack: fab
-  name: Statistics
-
-- description: '脊椎動物の肉眼解剖.'
-  icon: skull
-  icon_pack: fas
-  name: Gross Anatomy
-
-- description: '組織学的観察'
-  icon: microscope
-  icon_pack: fas
-  name: Histology
-  
-- description: '進化動態の解析, 形態情報の祖先型復元'
+- description: '進化動態の解析,形態情報の祖先型復元, 進化速度推定など'
   icon: dna
   icon_pack: fas
   name: Mesquite
+
+  icon: dna
+  icon_pack: fas
+  name: Mesquite
+
+  
+- description: '生態・形態情報の統計解析'
+  icon: r-project
+  icon_pack: fab
+  name: R
+
+- description: '骨, 軟骨, 筋肉, 神経の可視化 <br> '
+  icon: vial
+  icon_pack: fas
+  name: 免疫組織化学染色
+
+- description: '音声の録音. Echo Meter Touch Pro2, Kaleidoscopeによるコウモリ超音波の解析'
+  icon: music
+  icon_pack: fas
+  name: 生物音響測定
+
+- description: 'ミクロトーム/クライオミクロトーム'
+  icon: microscope
+  icon_pack: fas
+  name: 組織学的観察
+  
+
 
 
 # Uncomment to use emoji icons.
