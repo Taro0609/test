@@ -17,7 +17,7 @@ image:
   preview_only: false
 projects: []
 publication: '<i>Journal of Morphology</i>'
-publication_short: ""
+publication_short: "<b>Journal of Morphology</b>"
 publication_types:
 - "2"
 publishDate: "2018-02-01"

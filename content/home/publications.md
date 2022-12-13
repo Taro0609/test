@@ -26,7 +26,7 @@ content:
   #   tag: ''
   #   category: ''
   #   publication_type: ''
-  #   author: ''
+  #   authors: ''
   #   exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 3
   
  #  {{% callout note %}}
  # Quickly discover relevant content by [filtering publications](./publication/).
