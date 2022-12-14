@@ -1,31 +1,46 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-04-1T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-title: Example Project
+summary: コウモリ類は系統によって超音波発信器官が異なる. <br>果たして何回進化したのだろうか？<br><br>-関連論文 (詳しくは本ページ下部のPublicationsを参照ください)-<br>Nojiri et al. 2018 <i><b>Journal of Morphology</b></i><br>Nojiri et al. 2021a <b><i>Developmental Dynamics</i></b><br>Nojiri et al. 2021b <b><i>Current Biology</i></b><br>Nojiri et al. 2022 <b><i>Journal of Experimental Zoology B</i></b>
+
+title: コウモリ類の超音波器官の進化発生学：エコーロケーションの進化的起源
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+コウモリ類のほとんどの種は喉頭の筋収縮により超音波を発信し (パルス), 物体から反射した反響音 (エコー)から獲物の位置や障害物の形状を把握する反響定位 (エコーロケーション)を進化させました. コウモリ類のエコーロケーションのほとんどは喉頭の輪状甲状筋の収縮により超音波発信する喉頭エコーロケーションと呼ばれ, コウモリ類のうちヤンゴキロプテラ類 (亜目) の全種と, インプテロキロプテラ類 (亜目)のうちキクガシラコウモリ類 (上科)にみられます. 一方, キクガシラコウモリ類以外のインプテロキロプテラ類であるオオコウモリ類 (科)は喉頭エコーロケーションをもちません.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+これまで化石記録や聴覚遺伝子配列を用いた喉頭エコーロケーションの進化研究が進められてきましたが, コウモリ類で一度進化し, その後オオコウモリ類で失われた一回起源なのか, ヤンゴキロプテラ類とキクガシラコウモリ類の間で収斂進化した複数回起源なのか, 論争が続けられてきました.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<img src="Fig. 1.jpg" alt="Fig. 1">
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+そこで私たちは, エコーロケーションの超音波受信に用いられる内耳の発生過程に着目しました. 内耳は解剖学的に骨性の鼓胞と軟骨性の蝸牛 (俗にいう渦巻き管)から構成されています. このうちの鼓胞について, コウモリ類で極めて高い周波数の音を利用するキクガシラコウモリ類の鼓胞骨化プロセスをエコーロケーション能力をもたない種と比較したところ, ①骨化タイミングがコウモリ類で早期化していること, ②鼓胞サイズ成長が性成熟まで延長されている(※1)ことを発見しました. このことから, エコーロケーションを行うコウモリ類の聴覚器官には, エコーロケーションの進化に伴って発生過程の時間的改変 (ヘテロクロニー) が生じていることが示されました (Nojiri et al., 2018; Journal of Morphology).
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+※1. 一般的な哺乳類の鼓胞は出生直前に骨化します. また, 蝸牛のサイズは生後から成体まで, ほとんど変化しません. 我々ヒトで言えば, 赤ちゃんの鼓胞と大人の鼓胞のサイズは大差ありません.
+
+<img src="Fig. 2.jpg" alt="Fig. 2">
+
+また軟骨性の蝸牛については, ヤンゴキロプテラ類に属するヒナコウモリを対象に形成過程の記載を行った論文を発表しました. 本論文は非モデル動物では初めて, 軟組織撮像を可能とするDiceCT法 (Gignac et al., 2016)を用いて蝸牛形成の三次元構築を行った研究となります (Nojiri et al., 2021a; Developmental Dynamics).
+
+<img src="Fig. 3.jpg" alt="Fig. 3">
+
+次のステップとして, ３つのエコーロケーショングループ (ヤンゴキロプテラ類・キクガシラコウモリ類・オオコウモリ類)の間で鼓胞の骨化タイミングを比較したところ, キクガシラコウモリ類だけでなくヤンゴキロプテラ類でも早期化している一方, 喉頭エコーロケーション能力をもたないオオコウモリ類の鼓胞はコウモリ類以外の哺乳類同様, 頭骨要素の最後に骨化していることが判明しました
+(Nojiri et al., 2022; Journal of Experimental Zoology B).
+
+<img src="Fig. 4.jpg" alt="Fig. 4">
+
+一連の研究の集大成として, 鼓室輪と茎状舌骨と呼ばれる骨要素に着目しました. 一般的な哺乳類では, 鼓室輪と茎状舌骨は互いに癒合・接触せず独立した骨要素として存在していますがエコーロケーションを行うコウモリ類ではこれらが癒合・接触していることが知られています (Veselka et al., 2010; Nature). この骨学的性質は発声音・反響音間の音響学的な差異の検出精度を向上させるという機能的な利点をもちます.
+
+<img src="Fig. 5.jpg" alt="Fig. 5">
+
+私たちはこの点に着目し, 蝸牛に加え, 鼓室輪と茎状舌骨の発生過程を34種のコウモリ類, 他哺乳類の間で比較しました. 結果として①喉頭を用いたエコーロケーションを行わないオオコウモリ類 (俗にいうフルーツバット)は我々のようなコウモリ類以外の哺乳類の発生過程と極めて類似した発生過程を経ていることが判明しました. 一方で, ②鼻腔による超音波発信を行うキクガシラコウモリ類と口腔による超音波発信を行うヤンゴキロプテラ類の発生過程は質的・量的ともに異なっていることが示唆されました. これらの結果から, コウモリ類のエコーロケーションはコウモリ類という１つのグループの中で収斂進化していたことが判明しました. 本研究によってコウモリ類のエコーロケーションの進化的起源をめぐる一連の論争に終止符が打たれました (Nojiri et al., 2021b; Current Biology).
+
+<img src="Fig. 6.jpg" alt="Fig. 6">
+
+

@@ -28,7 +28,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-03-23"
-summary: <br>Ito, K., Tu, V. T., Eiting, T. P., Nojiri, T., and Koyabu, D. <br><b><i>Frontiers in Cell and Developmental Biology</i></b> (2021)
+summary: <br>Ito, K., Tu, V. T., Eiting, T. P., <b><u>Nojiri, T.</u></b>, and Koyabu, D. <br><b><i>Frontiers in Cell and Developmental Biology</i></b> (2021)
 tags:
 - Source Themes
 title: On the embryonic development of the nasal turbinals and their homology in bats

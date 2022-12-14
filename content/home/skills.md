@@ -19,41 +19,37 @@ feature:
 
 
 
-- description: '器官形態 三次元形態構築ソフトウェア'
+- description: '器官形態の三次元構築<br>ソフトウェア'
   icon: bone
   icon_pack: fas
-  name: Amira
+  name: <b>Amira</b>
   
 
-- description: '進化動態の解析,形態情報の祖先型復元, 進化速度推定など'
+- description: '進化動態の解析, <br>形態情報の祖先型復元, <br>進化速度推定など'
   icon: dna
   icon_pack: fas
-  name: Mesquite
-
-  icon: dna
-  icon_pack: fas
-  name: Mesquite
+  name: <b>Mesquite</b>
 
   
-- description: '生態・形態情報の統計解析'
+- description: '行動・生態・形態情報の統計解析'
   icon: r-project
   icon_pack: fab
-  name: R
+  name: <b>R</b>
 
-- description: '骨, 軟骨, 筋肉, 神経の可視化 <br> '
+- description: '抗体を用いた<br>骨, 軟骨, 筋肉, 神経の<br>可視化 <br> '
   icon: vial
   icon_pack: fas
-  name: 免疫組織化学染色
+  name: <b>Immuno-<br>histochemistry</b>
 
-- description: '音声の録音. Echo Meter Touch Pro2, Kaleidoscopeによるコウモリ超音波の解析'
+- description: '音声の録音. <br>Echo Meter Touch, <br>Kaleidoscopeによる<br>コウモリ超音波の解析'
   icon: music
   icon_pack: fas
-  name: 生物音響測定
+  name: <b>Bioacoustics</b>
 
-- description: 'ミクロトーム/クライオミクロトーム'
+- description: '(クライオ)ミクロトームによる(凍結)組織切片作成, 各種染色'
   icon: microscope
   icon_pack: fas
-  name: 組織学的観察
+  name: <b>Histology</b>
   
 
 

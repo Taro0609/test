@@ -12,7 +12,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2023-01-01"
-summary: <br>Cao, R., Takechi, M., Wang, X., Furutera, T., Nojiri, T., Koyabu, D., and Li, J.<br> <b><i>Scientific Reports</i></b> (2022)
+summary: <br>Cao, R., Takechi, M., Wang, X., Furutera, T., <b><u>Nojiri, T.</u></b>, Koyabu, D., and Li, J.<br> <b><i>Scientific Reports</i></b> (2022)
 tags:
 - Source Themes
 title: Temporal and regulatory dynamics of the inner ear transcriptome during development in mice

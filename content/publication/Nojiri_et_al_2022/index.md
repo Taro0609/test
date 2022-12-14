@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2022-01-01"
-summary: <br>Nojiri, T., Tu, V. T., Sohn, J. H., and Koyabu, D. <br><b><i>Journal of Experimental Zoology Part B：Molecular and Developmental Evolution</i></b> (2022)
+summary: <br><b><u>Nojiri, T.</u></b>, Tu, V. T., Sohn, J. H., and Koyabu, D. <br><b><i>Journal of Experimental Zoology Part B：Molecular and Developmental Evolution</i></b> (2022)
 tags:
 - Source Themes
 title: On the sequence heterochrony of cranial ossification of bats in the light of Haeckel's recapitulation theory

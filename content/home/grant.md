@@ -28,7 +28,7 @@ item:
 
 - organization: "日本学術振興会"
   organization_url: "https://www.jsps.go.jp"
-  title: "特別研究員奨励費 DC1 (3,400,000円)"
+  title: "特別研究員奨励費 DC1 (￥3,400,000)"
   url: "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21J30006/"
   certificate_url: ""
   date_start: "2019-04-01"
@@ -37,7 +37,7 @@ item:
 
 - organization: "日本学術振興会"
   organization_url: "https://www.jsps.go.jp"
-  title: "特別研究員奨励費 PD (5,200,000円）"
+  title: "特別研究員奨励費 PD (￥5,200,000）"
   url: "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18J21510/"
   certificate_url: ""
   date_start: "2022-04-01"
