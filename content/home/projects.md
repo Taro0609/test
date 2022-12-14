@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Research Project<br><b>EvoDevo × Bioacoustics</b><br>
+title: Research Project<br><br>
 subtitle: ''
 
 content:

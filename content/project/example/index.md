@@ -5,7 +5,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
-summary: コウモリ類は系統によって超音波発信器官が異なる. <br>果たして何回進化したのだろうか？<br><br>-関連論文 (詳しくは本ページ下部のPublicationsを参照ください)-<br>Nojiri et al. 2018 <i><b>Journal of Morphology</b></i><br>Nojiri et al. 2021a <b><i>Developmental Dynamics</i></b><br>Nojiri et al. 2021b <b><i>Current Biology</i></b><br>Nojiri et al. 2022 <b><i>Journal of Experimental Zoology B</i></b>
+summary: コウモリ類は系統によって超音波発信器官が異なる. <br>果たして何回進化したのだろうか？<br><br>-関連論文-<br>Nojiri et al. 2018 <i><b>Journal of Morphology</b></i><br>Nojiri et al. 2021a <b><i>Developmental Dynamics</i></b><br>Nojiri et al. 2021b <b><i>Current Biology</i></b><br>Nojiri et al. 2022 <b><i>Journal of Experimental Zoology B</i></b>
 
 title: コウモリ類の超音波器官の進化発生学：エコーロケーションの進化的起源
 url_code: ""
