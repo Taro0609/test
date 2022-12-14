@@ -36,7 +36,7 @@ item:
 - organization: "日本学術振興会"
   organization_url: "https://www.jsps.go.jp/j-ikushi-prize/"
   title: "第12回日本学術振興会育志賞"
-  url: "https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_Ikushi_list_jp.pdf"
+  url: "https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_ikushi_list_jp.pdf"
   certificate_url: ""
   date_start: "2022-01-28"
   date_end: ""
