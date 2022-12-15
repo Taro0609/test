@@ -1,6 +1,6 @@
 ---
 abstract: "<u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D. <br><b><i>Proceedings of the Royal Society B：Biological Sciences.</i></b> <i>in press</i>"
-date: "in press"
+date: "2023-01-01"
 doi: ""
 featured: false
 image:
