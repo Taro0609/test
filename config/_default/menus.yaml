@@ -31,12 +31,13 @@ main:
   - name: Presentation
     url: '#domestic_conference'
     weight: 80
-  - name: Link
-    url: '#link'
-    weight: 90
   - name: Contact
     url: '#contact'
+    weight: 90
+  - name: Link
+    url: '#link'
     weight: 100
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
