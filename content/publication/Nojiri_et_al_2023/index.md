@@ -3,7 +3,7 @@ abstract: "<u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi,
 date: "2023-01-01"
 doi: ""
 featured: false
-image:
+image: 
   focal_point: ""
   preview_only: false
 projects: []
