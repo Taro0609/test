@@ -40,30 +40,25 @@ design:
 日本学術振興会 育志賞を受賞しました. 
 コウモリ研究がもっと脚光を浴びるよう, 一層精進します.
 
-〇日本学術振興会 育志賞ページ
-https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_ikushi_list_jp.pdf
+〇<a href="https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_ikushi_list_jp.pdf">日本学術振興会 育志賞</a>
 
 -<b>2021.3/6</b>
 コウモリ類のエコーロケーションがコウモリ類内で収斂進化していることを比較発生学的に突き止めた主著論文がCurrent Biologyに掲載されました.
 本論文が私の博士論文の核, 学振の研究のゴールとなります.
 
-"Embryonic evidence uncovers convergent origins of laryngeal echolocation in bats. "
+<a href="https://www.cell.com/current-biology/fulltext/S0960-9822(20)31895-9">Embryonic evidence uncovers convergent origins of laryngeal echolocation in bats.</a>
 
-https://www.cell.com/current-biology/fulltext/S0960-9822(20)31895-9
 
-〇東大プレスリリース
-https://www.a.u-tokyo.ac.jp/topics/topics_20210306-1.html
+〇<a href="https://www.a.u-tokyo.ac.jp/topics/topics_20210306-1.html">東京大学プレスリリース</a>
 
 本研究は日本經濟新聞, オーストラリア国営放送ABC, 科学雑誌 The Conversation, コロンビア最大手新聞 El Tiempoにて取り上げられています.
 
-〇日本經濟新聞
-https://www.nikkei.com/article/DGXLRSP606062_U1A300C2000000/
 
-〇The Conversation
-https://theconversation.com/fruit-bats-are-the-only-bats-that-cant-and-never-could-use-echolocation-now-were-closer-to-knowing-why-153721
+〇<a href="https://www.nikkei.com/article/DGXLRSP606062_U1A300C2000000/">日本經濟新聞</a>
 
-〇El Tiempo
-https://www.eltiempo.com/vida/ciencia/murcielagos-el-colombiano-que-ayudo-a-descifrar-un-viejo-enigma-de-los-mamiferos-voladores-571364?utm_medium=Social&utm_source=Twitter#Echobox=1615123776
+〇<a href="https://theconversation.com/fruit-bats-are-the-only-bats-that-cant-and-never-could-use-echolocation-now-were-closer-to-knowing-why-153721">The Conversation</a>
+
+〇<a href="https://www.eltiempo.com/vida/ciencia/murcielagos-el-colombiano-que-ayudo-a-descifrar-un-viejo-enigma-de-los-mamiferos-voladores-571364?utm_medium=Social&utm_source=Twitter#Echobox=1615123776">El Tiempo</a>
 
 
 
