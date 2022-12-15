@@ -1,6 +1,6 @@
 ---
 abstract: "<u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D. <br><b><i>Proceedings of the Royal Society B：Biological Sciences.</i></b> <i>in press</i>"
-date: "2023-01-01"
+date: "2022-12-15"
 doi: ""
 featured: false
 image: 
@@ -11,7 +11,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-01-01"
+publishDate: "2022-12-15"
 summary: <br><u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D.<br>      <b><i>Proceedings of the Royal Society B：Biological Sciences.</b></i> (<i>in press</i>)
 tags:
 - Source Themes
