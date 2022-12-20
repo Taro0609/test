@@ -5,10 +5,10 @@ education:
   - course: 博士 (農学)  
     institution: 東京大学大学院 農学生命科学研究科 農学国際専攻 遺体科学研究室
     year: 2022
-  - course: 修士 (環境科学)
+  - course: 修士 環境科学
     institution: 北海道大学大学院 環境科学院 生物圏科学専攻 森林圏環境科学コース
     year: 2019 
-  - course: 学士（理学）
+  - course: 学士 理学
     institution: 北海道大学 理学部 地球惑星科学科 地球惑星システム科学講座
     year: 2017
 email: ""

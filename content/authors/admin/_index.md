@@ -8,7 +8,7 @@ education:
   - course: 修士 (環境科学)
     institution: 北海道大学大学院 環境科学院 
     year: 2019 
-  - course: 学士（理学）
+  - course: 学士 (理学)
     institution: 北海道大学 理学部 地球惑星科学科 
     year: 2017
 
