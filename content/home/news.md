@@ -42,7 +42,7 @@ design:
 
 〇<a href="https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_ikushi_list_jp.pdf">日本学術振興会 育志賞</a>
 
--<b>2021.3/6</b>
+-<b>2021.3/6</b><br>
 コウモリ類のエコーロケーションがコウモリ類内で収斂進化していることを比較発生学的に突き止めた主著論文がCurrent Biologyに掲載されました.
 本論文が私の博士論文の核, 学振の研究のゴールとなります.
 
