@@ -1,11 +1,11 @@
 ---
-date: "2019-04-1T00:00:00Z"
+date: "2019-04-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
 links:
-summary: コウモリ類は系統によって超音波発信器官が異なる. <br>果たして何回進化したのだろうか？<br><br>-関連論文-<br>Nojiri et al. 2018 <i><b>Journal of Morphology</b></i><br>Nojiri et al. 2021a <b><i>Developmental Dynamics</i></b><br>Nojiri et al. 2021b <b><i>Current Biology</i></b><br>Nojiri et al. 2022 <b><i>Journal of Experimental Zoology B</i></b>
+summary: コウモリ類の多くは超音波発信による空間把握を行うエコーロケーションを有し、系統によって口腔、鼻腔、舌打、翼打など、異なる超音波発信器官を用いてパルスを発信している. <br>こうしたコウモリ類の多彩な音響戦略は、果たしてコウモリ類の中でどのように起源したのだろうか？<br><br>-関連論文-<br>Nojiri et al. 2018 <i><b>Journal of Morphology</b></i><br>Nojiri et al. 2021a <b><i>Developmental Dynamics</i></b><br>Nojiri et al. 2021b <b><i>Current Biology</i></b><br>Nojiri et al. 2022 <b><i>Journal of Experimental Zoology B</i></b>
 
 title: コウモリ類の超音波器官の進化発生学：エコーロケーションの進化的起源
 url_code: ""
