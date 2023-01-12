@@ -4,7 +4,7 @@ abstract: "<u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi,
 
 " 
 date: "2023-01-11"
-doi: ""
+doi: "https://doi.org/10.1098/rspb.2022.1928"
 featured: false
 image: 
   focal_point: ""
@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2022-12-15"
-summary: <br><u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D.<br>      <b><i>Proceedings of the Royal Society B：Biological Sciences </b></i> (2023)
+summary: <br><u><b>Nojiri, T.</u></b>, Werneburg, I. Tu, V.T., Fukui, D., Takechi, M., Iseki, S., Furutera, T., and Koyabu, D.<br>      <b><i>Proceedings of the Royal Society B：Biological Sciences </b></i> (2023)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="141086338"></div>
 tags:
 - Source Themes
 title: Timing of organogenesis underscores the evolution of neonatal life histories and powered flight in bats

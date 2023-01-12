@@ -14,7 +14,7 @@ publication_short:
 publication_types:
 - "2"
 publishDate: "2018-02-01"
-summary: <br><b><u>Nojiri, T.</u></b>, Werneburg, I. Son, N. T., Tu, V. T., Sasaki, T., Maekawa, Y., and Koyabu, D. <br><b><i>Journal of Morphology</i></b> (2018)
+summary: <br><b><u>Nojiri, T.</u></b>, Werneburg, I. Son, N. T., Tu, V. T., Sasaki, T., Maekawa, Y., and Koyabu, D. <br><b><i>Journal of Morphology</i></b> (2018)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="34328552"></div>
 tags:
 - Source Themes
 title: "Prenatal cranial bone development of Thomas's horseshoe bat (Rhinolophus thomasi): with special reference to petrosal morphology"

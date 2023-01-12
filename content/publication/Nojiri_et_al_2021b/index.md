@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-03-07"
-summary: <br><b><u>Nojiri, T.</u></b>, Wilson, L. A. B., López-Aguirre, C., Tu, V. T., Kuratani, S., Ito, K., Higashiyama, H., Son, N. T., Fukui, D., Sadier, A., Sears, K. E., Endo, H., Kamihori, S., and Koyabu, D. <br><b><i>Current Biology</i></b> (2021)
+summary: <br><b><u>Nojiri, T.</u></b>, Wilson, L. A. B., López-Aguirre, C., Tu, V. T., Kuratani, S., Ito, K., Higashiyama, H., Son, N. T., Fukui, D., Sadier, A., Sears, K. E., Endo, H., Kamihori, S., and Koyabu, D. <br><b><i>Current Biology</i></b> (2021)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="101369705"></div>
 tags:
 - Source Themes
 title: Embryonic evidence uncovers convergent origins of laryngeal echolocation in bats

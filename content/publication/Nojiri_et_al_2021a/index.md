@@ -13,7 +13,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-03-01"
-summary: <br><u><b>Nojiri, T.</b></u>, Fukui, D., Werneburg, I., Saitoh, T., Endo, H., and Koyabu, D. <br><i><b>Developmental Dynamics</i></b> (2021)
+summary: <br><u><b>Nojiri, T.</b></u>, Fukui, D., Werneburg, I., Saitoh, T., Endo, H., and Koyabu, D. <br><i><b>Developmental Dynamics</i></b> (2021)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="101590688"></div>
 tags:
 - Source Themes
 title: Embryonic staging of bats with special reference to Vespertilio sinensis and its cochlear development

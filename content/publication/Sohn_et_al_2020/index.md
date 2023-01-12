@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-10-01"
-summary: <br>Sohn, J. H., Fukui, D., <b><u>Nojiri, T.</u></b>, Minowa, K., Kimura, J., and Koyabu, D.<br><i><b>Journal of Mammalian Evolution</b></i> (2020)
+summary: <br>Sohn, J. H., Fukui, D., <b><u>Nojiri, T.</u></b>, Minowa, K., Kimura, J., and Koyabu, D.<br><i><b>Journal of Mammalian Evolution</b></i> (2020)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="92677302"></div>
 tags:
 - Source Themes
 title: Three-dimensional and histological observations on male genital organs of greater horseshoe bat, Rhinolophus ferrumequinum
