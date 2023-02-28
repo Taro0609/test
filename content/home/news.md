@@ -28,6 +28,9 @@ design:
   columns: '2' 
 ---
 
+<b>-2023.2/28</b><br>
+若手研究に採択されました。<br>哺乳類の生物音響学-分子生物学-比較形態学の統合研究の第一歩です。
+
 <b>-2023.1/11</b><br>
 コウモリ類の胎子期四肢形成のヘテロクロニー (=進化に伴う発生の時間的改変現象)を分析し, 自由飛行・大足把捉能力進化との関連性を議論した論文が<b><i>Proceedings of the Royal Society B: Biological Sciences</i></b>から出ました. コウモリはその飛行能力から前肢に目が行きがちですが、後肢にも形態学・発生学的な逸脱がみられます. <a href="https://t-nojiri.netlify.app/publication/nojiri_et_al_2023/">紹介記事はこちら</a>
 
