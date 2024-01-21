@@ -44,6 +44,14 @@ item:
   date_end: ""
   description: ""
 
+- organization: "日本学術振興会"
+  organization_url: "https://www.jsps.go.jp"
+  title: "若手研究 (￥4,680,000）"
+  url: ""
+  certificate_url: ""
+  date_start: "2023-04-01"
+  date_end: ""
+  description: ""
 
 design:
   columns: '2' 
