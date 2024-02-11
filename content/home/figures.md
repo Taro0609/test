@@ -20,7 +20,6 @@ date_format: Jan 2006
 
 ---
 
-<img src="A.jpg" alt="A"><br>
 <img src="B.jpg" alt="B"><br>
 <img src="C.jpg" alt="C"><br>
 <img src="D.jpg" alt="D"><br>

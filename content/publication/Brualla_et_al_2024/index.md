@@ -14,7 +14,7 @@ publication_short:
 publication_types:
 - "2"
 publishDate: "2024-01-20"
-summary: Brualla, N.L.M, Wilson, L.A.B., Tu, V.T., Nojiri, T., Carter, R.T., Ngamprasertwong, T., Wannaprasert, T., Doube, M., Fuki, D., Koyabu, D. <br><b><i>Zoological Journal of the Linnean Society</i></b> (2024)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="158504391"></div>
+summary: Brualla, N.L.M, Wilson, L.A.B., Tu, V.T., <b><u>Nojiri, T.</u></b>, Carter, R.T., Ngamprasertwong, T., Wannaprasert, T., Doube, M., Fuki, D., Koyabu, D. <br><b><i>Zoological Journal of the Linnean Society</i></b> (2024)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="158504391"></div>
 tags:
 - Source Themes
 title: "Comparative anatomy of the vocal apparatus in bats and implications for the diversity of laryngeal echolocation"
