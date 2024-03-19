@@ -56,6 +56,22 @@ design:
 
 〇<a href="https://www.jsps.go.jp/j-ikushi-prize/data/ichiran/12th_ikushi_list_jp.pdf">日本学術振興会 育志賞</a>
 
+
+<b>2021.8/28 - 31</b><br>
+日本哺乳類学会2021で以下のポスター発表を行いました. 
+P-042では優秀ポスター賞をいただきました. 
+
+P-042 胎子期発生からひも解くコウモリ類のエコーロケーションの進化的起源
+〇野尻 太郎1, Laura A.B. Wilson2, Camilo Lopez-Aguirre3, Vuong, Tu Tan4, 福井 大1, 遠藤 秀紀1, 小薮 大輔5,6（1東京大学, 2オーストラリア国立大学, 3トロント大学, 4ベトナム科学技術アカデミー, 5筑波大学, 6東京医科歯科大学）
+
+P-040 コウモリ類における雄生殖器の三次元比較解剖学的研究
+〇JoonHyuk Sohn1, Vuong Tan Tu2, 福井 大3, 野尻 太郎4, 木村 順平1, 小薮 大輔5,6（1ソウル大学 獣医学部, 2Institute of Ecology and Biological Resources, Vietnam Academy of Science and Technology, 3東京大学 北海道演習林, 4東京大学 大学院農学生命科学研究科, 5筑波大学, 6香港市立大学）
+
+P-043 旧世界コウモリ類における喉頭器官の三次元比較解剖と超音波発声の多様性進化
+〇Brualla Nicolas1, Laura Wilson2, 野尻 太郎3, Michael Doube1, Vuong Tan Tu4, 福井 大3, 小薮 大輔1,5（1City University of Hong Kong, 2Australian National University, 3東京大学, 4Vietnam Academy of Science and Technology, 5筑波大学）
+
+
+
 <b>2021.3/6</b><br>
 コウモリ類のエコーロケーションがコウモリ類内で収斂進化していることを比較発生学的に突き止めた主著論文が<b><i><a href="https://www.sciencedirect.com/science/article/pii/S0960982220318959">Current Biology</a></i></b>に掲載されました.
 本論文が私の博士論文の核, 学振の研究のゴールとなります.
@@ -75,8 +91,105 @@ design:
 〇<a href="https://www.eltiempo.com/vida/ciencia/murcielagos-el-colombiano-que-ayudo-a-descifrar-un-viejo-enigma-de-los-mamiferos-voladores-571364?utm_medium=Social&utm_source=Twitter#Echobox=1615123776">El Tiempo</a>
 
 
+<b>2021.3/9</b><br>
+ヘッケルの反復説をコウモリの胎子期頭蓋骨形態形成から再検証した主著論文がJournal of Experimental Zoology Bに掲載されました.
+
+"On the sequence heterochrony of cranial ossification of bats in the light of Haeckel's recapitulation theory. "
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/jez.b.23042
 
 
+
+<b>2021.3/8</b><br>
+新ステージング手法Standard Event System (SES)に基づいてヒナコウモリの胚発生ステージングおよび蝸牛発生記載を行った主著論文がdevelopmental dynamicsに掲載されました. 
+本論文は私の修士論文の第1章を飾った論文になります.
+
+"Embryonic staging of bats with special reference to Vespertilio sinensis and its cochlear development. "
+
+https://anatomypubs.onlinelibrary.wiley.com/doi/epdf/10.1002/dvdy.325
+
+
+
+<b>2021.2/8</b><br>
+
+コウモリ類の鼻甲介 nasal turbinateの相同性を発生学的に再検討した共著論文がFrontiers in Cell and Developmental Biologyに掲載されました.
+
+"On the embryonic development of the nasal turbinate homology in bats. "
+
+https://www.frontiersin.org/articles/10.3389/fcell.2021.613545/abstract
+
+
+<b>2020.10/19</b><br>
+
+日本産キクガシラコウモリ類 Rhinolophus ferrumequinumの雄生殖器形態を記載した共著論文がJournal of Mammalian Evolutionに掲載されました.
+
+"Three-dimensional and histological observations on male genital organs of greater horseshoe bat, Rhinolophus ferrumequinum. "
+
+https://link.springer.com/article/10.1007/s10914-020-09525-6
+
+
+
+<b>2020.4/1 - 6/30</b><br>
+
+新潟県でコキクガシラコウモリRhinolophus cornutusの調査を行いました.
+
+
+<b>2020.3/1 - 3/10</b><br>
+
+ベトナムでコウモリ類の調査を行いました (ホーチミン).
+
+
+<b>2019.10/15 - 11/15</b><br>
+
+研究出張で香港に滞在しました.
+
+
+<b>2019.7/27 - 8/3</b><br>
+
+国際コウモリ学会でタイに滞在しました (プーケット).
+
+
+<b>2019.7/19 - 7/26</b><br>
+
+国際脊椎動物形態学会 (ICVM)でチェコに滞在しました (プラハ).
+
+
+<b>2019. 4/1</b><br>
+
+東京大学 農学生命科学研究科 / 総合研究博物館の博士課程に進学しました.
+
+日本学術振興会 特別研究員 (DC1) として, 修士課程に引き続きコウモリ類の進化発生学研究を推進します.
+
+
+<b>2019. 3/31</b><br>
+
+北海道大学 環境科学院 修士課程を修了しました. 
+
+同研究科の修士論文最優秀賞を受賞しました.
+
+
+<b>2019. 3/15-19</b><br>
+
+日本生態学会で兵庫県に滞在しました (神戸国際展示場). 
+
+
+<b>2018. 10/12</b><br>
+
+日本学術振興会特別研究員 (DC1)に面接免除で採用内定.
+コウモリ類のエコーロケーションの進化的起源の解明を目指します.
+
+
+<b>2018. 3/14-18</b><br>
+
+日本生態学会でポスター発表しました (札幌コンベンションセンター).
+
+
+<b>2018. 2/28</b><br>
+ベトナム産キクガシラコウモリ類 Rhinolophus thomasiの頭骨 & 蝸牛発生を記載した主著論文がJournal of Morphologyに掲載されました.
+
+"Prenatal cranial bone development of Thomas's horseshoe bat (Rhinolophus thomasi): with special reference to petrosal morphology. "
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.20813
 
 
 
