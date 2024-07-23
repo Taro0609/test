@@ -22,7 +22,7 @@ publishDate: "2024-07-11"
 summary: <b><u>Nojiri, T.</u></b>, Werneburg, I., Sakai, A., Furutera, T., Negishi-Koga, T., Ishijima, M., Ichimura, K. <br><b><i>The Anatomical Record</i></b> (2024)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="165338152"></div>
 tags:
 - Source Themes
-title: "Embryonic development and cranial ossification of the Japanese Aodaishō, <i>Elaphe climacophora</i> (Serpentes: Colubridae): with special reference to the prootic bone and auditory evolution in snakes"
+title: "Embryonic development and cranial ossification of the Japanese Aodaishō, Elaphe climacophora (Serpentes: Colubridae): with special reference to the prootic bone and auditory evolution in snakes"
 url_dataset: ""
 url_pdf: 
 ---
