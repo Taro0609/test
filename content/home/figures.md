@@ -19,7 +19,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 ---
-
-<img src="B.jpg" alt="B"><br>
-<img src="C.jpg" alt="C"><br>
-<img src="D.jpg" alt="D"><br>
+<img src="A.jpg" width="500" height="400" alt="A"><br>
+<img src="B.jpg" width="500" height="400" alt="B"><br>
+<img src="C.jpg" width="500" height="400" alt="C"><br>
+<img src="D.jpg" width="500" height="400" alt="D"><br>
+<img src="E.jpg" width="500" height="400" alt="E"><br>
+<img src="F.jpg" width="500" height="400" alt="F"><br>
