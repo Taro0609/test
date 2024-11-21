@@ -43,5 +43,5 @@ title: Taro Nojiri
 
 脊椎動物の呼吸器と聴覚器の形態進化を研究しています.<br>
 <a href="https://taro-nojiri12.webnode.page/"><b>For English.</b></a><br><br>
-<a href="https://www.dropbox.com/scl/fi/aic5xj20yvglv490yu43s/Taro-Nojiri_CV.pdf?rlkey=2mvdl54tdsjd4tgh0frgo50eg&dl=0"><b>My CV is available here.</b></a>
+<a href="https://www.dropbox.com/scl/fi/h6823bx1lq0edporlyadw/Taro-Nojiri_CV.pdf?rlkey=zwtxoqlh3j35i76oli1edjy2g&st=i8nzc8tj&dl=0"><b>My CV is available here.</b></a>
 
