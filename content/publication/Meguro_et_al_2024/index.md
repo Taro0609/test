@@ -3,8 +3,7 @@ abstract: "Orofacial morphology in mammals plays a critical role in essential li
 
 
 
-<br><br>Fumiya Meguro, Hiroki Higashiyama, Yannick Pommery, Laura A.B. Wilson, Vuong Tan Tu, <b><u>Taro Nojiri</u></b>, Dai Fukui, Daisuke Koyabu
-<br><b><i>Journal of Anatomy</i></b> (2024)"
+<br><br>Fumiya Meguro, Hiroki Higashiyama, Yannick Pommery, Laura A.B. Wilson, Vuong Tan Tu, <b><u>Taro Nojiri</u></b>, Dai Fukui, Daisuke Koyabu<br><b><i>Journal of Anatomy</i></b> (2024)"
 authors:
 date: "XXXX"
 doi: "https://doi.org/10.1111/joa.14173"
@@ -19,10 +18,10 @@ publication_short:
 publication_types:
 - "2"
 publishDate: "2024-10-28"
-summary: Fumiya Meguro, Hiroki Higashiyama, Yannick Pommery, Laura A.B. Wilson, Vuong Tan Tu, <b><u>Taro Nojiri</u></b>, Dai Fukui, Daisuke Koyabu<i>Journal of Anatomy</i></b> (2024)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="171507144"></div>
+summary: Fumiya Meguro, Hiroki Higashiyama, Yannick Pommery, Laura A.B. Wilson, Vuong Tan Tu, <b><u>Taro Nojiri</u></b>, Dai Fukui, Daisuke Koyabu<br><b><i>Journal of Anatomy</i></b> (2024)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="171507144"></div>
 tags:
 - Source Themes
-title: "The development of orofacial complex in bats: Implications fororofacial clefting
+title: "The development of orofacial complex in bats: Implications for orofacial clefting
 "
 url_dataset: ""
 url_pdf: 

@@ -19,7 +19,7 @@ publication_short:
 publication_types:
 - "2"
 publishDate: "2024-10-28"
-summary: Yannick Pommery, Daisuke Koyabu, Fumiya Meguro, Vuong Tan Tu, Thongchai Ngamprasertwong, Thanakul Wannaprasert, <b><u>Taro Nojiri</u></b>, Laura A.B. Wilson<i>Journal of Anatomy</i></b> (2025)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="169752205"></div>
+summary: Yannick Pommery, Daisuke Koyabu, Fumiya Meguro, Vuong Tan Tu, Thongchai Ngamprasertwong, Thanakul Wannaprasert, <b><u>Taro Nojiri</u></b>, Laura A.B. Wilson<br><b><i>Journal of Anatomy</i></b> (2025)<br><script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="169752205"></div>
 tags:
 - Source Themes
 title: "Prenatal growth patterns of the upper jaw complex with implications for laryngeal echolocation in bats"
