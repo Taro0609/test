@@ -24,6 +24,15 @@ date_format: 2006年1月
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+- organization: "JEZ-B"
+  organization_url: ""
+  title: "Top Cited Article 2022-2023"
+  url: "https://onlinelibrary.wiley.com/journal/15525015"
+  certificate_url: ""
+  date_start: "2024-04-20"
+  date_end: ""
+  description: ""
+
 - organization: "東京大学大学院農学生命科学研究科"
   organization_url: ""
   title: "研究科長賞"
